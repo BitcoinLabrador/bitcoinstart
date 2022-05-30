@@ -1,5 +1,7 @@
 # [🚀 Bitcoinstart - Informatie over Bitcoin](https://bitcoinst.art)
-Bitcoin is een nieuwe vorm van geld (sinds 2009!) bedoeld om de mens financiële vrijheid te bieden. Toch kan het lastig zijn om zoiets moeilijks te begrijpen en óm zoiets moeilijk te begrijpen kunnen we het beter in onze eigen taal leren. Bij een simpele zoekopdracht zie je door de bomen het bos niet meer en wordt je doodgegooid met websites vol reclame met als doel om zelf geld te verdienen in plaats iemand goed te informeren. Daarom kan de informatie niet altijd goed zijn. Het doel van deze lijst is om zoveel mogelijke goede Nederlandse bronnen te verzamelen.
+Bitcoin is een nieuwe vorm van geld (sinds 2009!) bedoeld om de mens financiële vrijheid te bieden. Toch kan het lastig zijn om zoiets moeilijks te begrijpen, zeker als de bronnen niet in je eigen taal zijn. 
+Als je zelf op zoek gaat naar informatie, zie je al snel door de bomen het bos niet meer en wordt je doodgegooid met websites vol reclame met als doel om zelf geld te verdienen in plaats iemand goed te informeren. 
+Daarom hebben we deze lijst samengesteld: om zo veel mogelijk goede Nederlandse bronnen op één plek te verzamelen.
 
 --------------------
 
